@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/gtCTmm5/programming-background-with-person-working-with-codes-computer.jpg?w=2000)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Asad Mohammad Rayat</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
