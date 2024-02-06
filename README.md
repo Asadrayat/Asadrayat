@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadrayat&label=Profile%20views&color=0e75b6&style=flat" alt="asadrayat" /> </p>
 
 - 🌱 I’m currently learning **Shopify Liquid**
-- 👨‍💻 All of my projects are available at [https://portfolio-5bdef.web.app/](https://portfolio-5bdef.web.app/)
+- 👨‍💻 All of my projects are available at [https://effortless-valkyrie-f53c10.netlify.app/](https://effortless-valkyrie-f53c10.netlify.app/)
 - 💬 Ask me about **react**
 - 💬 Ask me about **Shopify**
 - 💬 Ask me about **Shopify Liquid**
