@@ -5,8 +5,9 @@
 
 - 🌱 I’m currently learning **Shopify Liquid**
 - 👨‍💻 All of my projects are available at [https://effortless-valkyrie-f53c10.netlify.app/](https://effortless-valkyrie-f53c10.netlify.app/)
-- 💬 Ask me about **react**
 - 💬 Ask me about **Shopify**
+- 💬 Ask me about **Frontend**
+- 💬 Ask me about **react**
 - 💬 Ask me about **Shopify Liquid**
 - 📫 How to reach me **asad.rayat4@gmail.com**
 - 📄 Know about my experiences [https://docs.google.com/document/d/1U3qxOfm2CGu2ESf-dmOpCoKTbQE_MC5D/edit?usp=sharing&ouid=115444563281881155229&rtpof=true&sd=true](https://docs.google.com/document/d/1U3qxOfm2CGu2ESf-dmOpCoKTbQE_MC5D/edit?usp=sharing&ouid=115444563281881155229&rtpof=true&sd=true)
