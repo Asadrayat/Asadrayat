@@ -10,7 +10,7 @@
 - 💬 Ask me about **react**
 - 💬 Ask me about **Shopify Liquid**
 - 📫 How to reach me **asad.rayat4@gmail.com**
-- 📄 Know about my experiences [https://docs.google.com/document/d/1U3qxOfm2CGu2ESf-dmOpCoKTbQE_MC5D/edit?usp=sharing&ouid=115444563281881155229&rtpof=true&sd=true](https://docs.google.com/document/d/1U3qxOfm2CGu2ESf-dmOpCoKTbQE_MC5D/edit?usp=sharing&ouid=115444563281881155229&rtpof=true&sd=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
